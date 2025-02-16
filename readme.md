@@ -1,6 +1,4 @@
-Here's a comprehensive README guide for your code that interacts with an Azure SQL Database using `pymssql`:
 
-```markdown
 [Join Curious PM Community](https://curious.pm) to connect, share, and learn with others!
 
 ---
@@ -8,7 +6,6 @@ Here's a comprehensive README guide for your code that interacts with an Azure S
 
 This repository demonstrates how to interact with an Azure-hosted SQL Database using Python. The provided script showcases how to connect to the database, create a table if it doesn't exist, insert sample data, and retrieve records.
 
-**Note:** This repository is for educational purposes only.
 ---
 ## What the Code Does  
 The code helps users connect to an Azure SQL Database, verify table structures, insert sample data, and retrieve records for analysis. It ensures smooth interaction with the database and follows best practices for secure operations.
@@ -283,6 +280,3 @@ Follow these steps to execute the script successfully:
    ```
    
 ---
-
-**Note:** Avoid hardcoding sensitive credentials in the script; use environment variables or configuration files instead.
-```
